@@ -1,6 +1,6 @@
-- 👋 <br />Hi, I’m @nickynite
+- 👋 <br />Hi, I’m @nickynite, my pronouns are they/them.
 - 💻 <br />I just finished Juno College's Web Immersive Bootcamp, prior to that I received my diploma in Computer Graphics. I’m interested in graphic design, UI/UX,      fun CSS things, and currently brushing up on my JS fundamentals.
-- 🚲 <br />When I'm not in front of my laptop, you can find me in my garden 👨🏻‍🌾 , walking my dog Brody 🐶&nbsp; or biking around Brandon, Manitoba.
+- 🚲 <br />When I'm not in front of my laptop, you can find me in my garden 🌱, walking my dog Brody 🐶&nbsp; or biking around Brandon, Manitoba.
 - 📫 <br />you can reach me at nickynite.com
 
 <!---
